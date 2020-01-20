@@ -1,0 +1,42 @@
+*   [33mcommit ef6c915574bd05a88f6f22a22bd31ca34c306bec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 0b2336b 0dc909f
+[31m|[m [32m|[m Author: Daniel Coelho <daniel.coelho@thera.com.br>
+[31m|[m [32m|[m Date:   Mon Jan 20 10:58:19 2020 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'titulo'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 0dc909fa46c44fbaad60226ff31442ec5b6083f9[m[33m ([m[1;32mtitulo[m[33m)[m
+[31m|[m [32m|[m Author: Daniel Coelho <daniel.coelho@thera.com.br>
+[31m|[m [32m|[m Date:   Mon Jan 20 10:43:21 2020 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Alterando o título da página novamente
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 1e83cf7aa5cb5b975c38dbf457205f16b68ce469[m
+[31m|[m [32m|[m Author: Daniel Coelho <daniel.coelho@thera.com.br>
+[31m|[m [32m|[m Date:   Mon Jan 20 10:40:09 2020 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Alterando título da página
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 0b2336ba827beda79293553d05aeadd2b3f5b761[m
+[32m|[m[32m/[m  Author: Daniel Coelho <daniel.coelho@thera.com.br>
+[32m|[m   Date:   Mon Jan 20 10:58:05 2020 -0300
+[32m|[m   
+[32m|[m       Ajustando curso de Docker
+[32m|[m 
+* [33mcommit bea3eeff20e517737b4844faa1b86ad41c48915a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+[32m|[m Author: Daniel Coelho <daniel.coelho@thera.com.br>
+[32m|[m Date:   Sun Jan 19 15:36:03 2020 -0300
+[32m|[m 
+[32m|[m     Adicionando o gitignore
+[32m|[m 
+* [33mcommit fea721b518835714299ed67db9f24b4658fd2715[m
+[32m|[m Author: Daniel Coelho <Daniel Coelho@DESKTOP-GTSHHTG>
+[32m|[m Date:   Sun Jan 19 15:28:57 2020 -0300
+[32m|[m 
+[32m|[m     Adicionando acentuo
+[32m|[m 
+* [33mcommit 89735fcc50947af2774a505628129e6bb1c93224[m
+  Author: Daniel Coelho <Daniel Coelho@DESKTOP-GTSHHTG>
+  Date:   Sun Jan 19 15:27:44 2020 -0300
+  
+      Criação de arquivo
